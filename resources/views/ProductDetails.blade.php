@@ -1568,7 +1568,7 @@ strong {
                 <ul class="nav__items list list--hr">
                     <!-- items -->
                     <li class="nav__item">
-                        <a class="nav__link" href="/hello">Home</a>
+                        <a class="nav__link" href="/home">Home</a>
                     </li>
                     <li class="nav__item dropdown ">
                         <!-- title -->
